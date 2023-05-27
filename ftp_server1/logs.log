@@ -1,0 +1,5 @@
+2023-05-25 21:26:37,007 - INFO - Client: подключиться
+2023-05-25 21:30:27,408 - INFO - Client: register
+2023-05-25 21:32:25,110 - INFO - Client: register 123 123
+2023-05-25 21:32:25,112 - INFO - New user "123" registered
+2023-05-25 21:34:27,204 - INFO - Client: touch abc_1
