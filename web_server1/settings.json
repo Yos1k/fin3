@@ -1,0 +1,5 @@
+{
+  "port": 80,
+  "directory": "./",
+  "max_request_size": 1048576
+}
